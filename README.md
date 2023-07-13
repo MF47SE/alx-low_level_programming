@@ -1,0 +1,1 @@
+new to lang C
